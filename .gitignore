@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
